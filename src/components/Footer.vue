@@ -57,7 +57,7 @@ export default {
     info: ['Home', 'Gallery', 'About Us', 'Contact Us'],
     links: ['Services', 'Doctors'],
     services: ['Cardiology', 'Dental', 'Neorologist', 'Pedriatic'],
-    contact: ['24th street, downtown, New York', 'info@hospital.com', '(545) 555-0214'],
+    contact: ['Panitanki-10, Birgunj, Nepal', 'agram@hospital.com', '+977 9876543210'],
     socials: [
       { icon: 'mdi-facebook', to: 'https://www.facebook.com' },
       { icon: 'mdi-twitter', to: 'https://www.twitter.com' },
